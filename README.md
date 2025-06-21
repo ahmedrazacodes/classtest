@@ -1,1 +1,1 @@
-https://webdeveloperahmed92.github.io/classtest/
+https://ahmedrazacodes.github.io/classtest/
